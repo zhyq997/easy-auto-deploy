@@ -5,6 +5,8 @@
 
 基于 Node.js 开发，适用于 Vue, React, Angular 等所有需要静态资源部署的前端项目。
 
+[github 仓库链接](https://github.com/zhyq997/easy-auto-deploy)
+
 ## ✨ 主要特性
 
 - 📦 **自动构建**：自动执行本地 `npm run build` 命令。
