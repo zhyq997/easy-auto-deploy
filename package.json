@@ -1,6 +1,6 @@
 {
   "name": "easy-auto-deploy-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple SSH deploy tool",
   "main": "index.mjs",
   "type": "module",
