@@ -7,6 +7,14 @@
   "bin": {
     "easy-deploy": "./index.mjs"
   },
+  "files": [
+    "index.mjs",
+    "src",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
   "keywords": [
     "deploy",
     "ssh",
